@@ -88,16 +88,6 @@ button{
 
 @media (max-width: 400px) {
     .calculator-app {
-        padding: 10px;
-    }
-
-    input {
-        font-size: 1.2rem;
-    }
-
-    button {
-        width: 45px;
-        height: 45px;
-        font-size: 0.9rem;
+        padding: 5px;
     }
 }
